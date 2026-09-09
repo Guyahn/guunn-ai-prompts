@@ -1047,30 +1047,9 @@ seamless loopable, 2 minutes length
 
 ---
 
-## 🤝 贡献指南
-
-欢迎提交 Issue 和 PR 来贡献更多优质提示词！
-
-### 提交方式
-
-1. **Fork** 本仓库
-2. 创建你的特性分支 (`git checkout -b feature/AmazingPrompt`)
-3. 提交你的改动 (`git commit -m 'Add some amazing prompts'`)
-4. 推送到分支 (`git push origin feature/AmazingPrompt`)
-5. 开启一个 **Pull Request**
-
-### 提交规范
-
-- ✅ 提示词要经过实际验证，确保有效
-- ✅ 分类准确，命名清晰
-- ✅ 提供使用场景说明
-- ✅ 中文提示词请使用中文说明
-- ✅ 如涉及第三方工具，请注明适用范围
-- ❌ 不接受低质量、重复、无法使用的内容
-
 ### Issue 反馈
 
-发现问题或有建议？欢迎 [提交 Issue](https://github.com/你的用户名/仓库名/issues)，提交时请：
+发现问题或有建议？欢迎 [提交 Issue](https://github.com/Guyahn/guunn-ai-prompts/issues)，提交时请：
 
 - 清晰描述问题
 - 指明具体的分类和提示词
@@ -1082,8 +1061,7 @@ seamless loopable, 2 minutes length
 
 - 🌐 **官方网站**：[https://www.guunn.com/](https://www.guunn.com/) — 千万级 AI 提示词大全
 - 🔍 **搜索提示词**：[https://www.guunn.com/](https://www.guunn.com/) — 一键搜索，快速找到你需要的提示词
-- 📧 **联系我们**：[邮箱地址]
-- 💬 **交流群**：[微信群/QQ群信息]
+- 📧 **联系我们**：[guyaheng@126.com]
 
 ### 精选分类导航
 
