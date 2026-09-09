@@ -2,11 +2,11 @@
 
 > 精心整理的 AI 提示词大全，覆盖 AI 写作、绘画、编程、办公、智能体等 10+ 场景，1000+ 优质提示词持续更新中...
 
-[![GitHub Stars](https://img.shields.io/github/stars/你的用户名/仓库名?style=flat-square&color=yellow)](https://github.com/你的用户名/仓库名/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/你的用户名/仓库名?style=flat-square&color=blue)](https://github.com/你的用户名/仓库名/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/你的用户名/仓库名?style=flat-square&color=green)](https://github.com/你的用户名/仓库名/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/Guyahn/guunn-ai-prompts?style=flat-square&color=yellow)](https://github.com/Guyahn/guunn-ai-prompts/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Guyahn/guunn-ai-prompts?style=flat-square&color=blue)](https://github.com/Guyahn/guunn-ai-prompts/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/Guyahn/guunn-ai-prompts?style=flat-square&color=green)](https://github.com/Guyahn/guunn-ai-prompts/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![License](https://img.shields.io/github/license/你的用户名/仓库名?style=flat-square)](./LICENSE)
+[![License](https://img.shields.io/github/license/Guyahn/guunn-ai-prompts?style=flat-square)](./LICENSE)
 
 ---
 
